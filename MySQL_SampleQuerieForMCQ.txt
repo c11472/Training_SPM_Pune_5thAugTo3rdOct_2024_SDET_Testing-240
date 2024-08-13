@@ -1,0 +1,3 @@
+https://www.geeksforgeeks.org/quizzes/sql-gq/
+https://www.geeksforgeeks.org/mysql-common-mysql-queries/
+https://www.javatpoint.com/sql-mcq
